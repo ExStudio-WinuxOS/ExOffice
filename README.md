@@ -1,11 +1,11 @@
-﻿# dzzoffice
+﻿# ExOffice
 
-### 官方网站:http://dzzoffice.com
-### 演示地址:http://demo.dzzoffice.com
+### 官方网站:http://www.exstudio.site
+### 演示地址:http://www.exstudio.site
 
-### DzzOffice 介绍：
+### ExOffice 介绍：
 
-   Dzzoffice是一套开源办公套件，适用于企业、团队搭建自己的 类似“Google企业应用套件”、“微软Office365”的企业协同办公平台。套件由多个工具组成，包含但不限于如：
+   ExOffice是一套开源办公套件，适用于企业、团队搭建自己的 类似“Google企业应用套件”、“微软Office365”的企业协同办公平台。套件由多个工具组成，包含但不限于如：
 
 **网盘**: 企业、团队文件集中管理。主要体现的功能是支持企业部门的组织架构建立共享目录，也支持组的方式灵活建立共享目录。支持文件标签，多版本，评论，详细的目录权限等协作功能。
 
